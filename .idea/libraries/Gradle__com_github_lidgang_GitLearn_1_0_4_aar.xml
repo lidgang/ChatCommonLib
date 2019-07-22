@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lidgang:GitLearn:1.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc4d10a215f201692e212e5023d1393a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc4d10a215f201692e212e5023d1393a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lidgang/GitLearn/1.0.4/ee5820cc21dc03a476736e2992d65e94ad8dd0e6/GitLearn-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
