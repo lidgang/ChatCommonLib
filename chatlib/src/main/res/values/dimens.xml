@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_emoticon_size_big">60dp</dimen>
+    <dimen name="dimen_detial_height">50dp</dimen>
+    <dimen name="bar_icon_height_userdef">28dp</dimen>
+</resources>
