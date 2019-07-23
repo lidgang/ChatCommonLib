@@ -6,7 +6,7 @@
 3. 基本表情包
 4. 自定义添加其他功能，发送图片、视频、位置等等
 #### 具体效果如下图：
-![944a44d7c7d49b0266a7008cd1c95044.gif](evernotecid://5EFB1936-4904-43EA-813E-27B5AC904CDD/appyinxiangcom/976820/ENResource/p892)
+![demo.gif](https://github.com/lidgang/ChatCommonLib/blob/master/images/demo.gif)
 #### 引用库
 Step 1.在Build中添加jitpack支持
 ```
